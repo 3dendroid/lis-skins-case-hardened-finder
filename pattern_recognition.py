@@ -28,7 +28,7 @@ def crop_and_recognize_digits_from_folder(folder_path, output_file):
     print (f"All digits have been saved to {output_file}.")
 
 
-folder_path = r"C:\Users\GIGACHAD\PycharmProjects\lis-skins-case-hardened-finder\screenshots"
-output_file = r"C:\Users\GIGACHAD\PycharmProjects\lis-skins-case-hardened-finder\texts\patterns.txt"
+folder_path = r"C:\Users\SUPERDEN\PycharmProjects\lis-skins-case-hardened-finder\screenshots"
+output_file = r"C:\Users\SUPERDEN\PycharmProjects\lis-skins-case-hardened-finder\texts\patterns.txt"
 
 crop_and_recognize_digits_from_folder (folder_path, output_file)

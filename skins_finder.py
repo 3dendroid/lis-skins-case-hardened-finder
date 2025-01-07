@@ -25,7 +25,7 @@ with (SB (headed=True,
     time.sleep (2)
     print ('MAKE A SCREENSHOT')
     time.sleep (2)
-    folder = r'C:\Users\GIGACHAD\PycharmProjects\lis-skins-case-hardened-finder\screenshots'
+    folder = r'C:\Users\SUPERDEN\PycharmProjects\lis-skins-case-hardened-finder\screenshots'
     if not os.path.exists (folder):
         os.makedirs (folder)
     screenshot_filename = os.path.join (folder, time.strftime ('%d_%m_%Y_%H_%M_%S') + '_screenshot.png')
