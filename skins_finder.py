@@ -40,7 +40,7 @@ with (SB (headed=True,
     print ('CLOSE POPUP WINDOW')
     driver.click ('div[class="popup-close"]')
     print ('FINISHED')
-# DELETE THIS AFTER FIXING GIT PROBLEM
+# DELETE THIS AFTER FIXING GIT PROBLEM 2
 
 # for element in elements:
 #     element.click ()
